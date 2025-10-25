@@ -1,0 +1,16 @@
+# Ignorar executáveis e binários
+*.exe
+*.obj
+*.pdb
+*.dll
+*.lib
+
+# Ignorar diretórios comuns de build
+/build/
+/bin/
+/Debug/
+/Release/
+
+# Ignorar arquivos de configuração locais
+.vscode/
+*.log
